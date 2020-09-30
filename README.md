@@ -1,6 +1,6 @@
 # Gridcoin-Site
 Open source Gridcoin website
-
+This is an amazing website
 Uses the Middleman static site generator.
 https://middlemanapp.com/
 
